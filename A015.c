@@ -19,6 +19,7 @@ int main(){
     V = V/E*100;
     A = (E-total)/E*100;
 
+    //como printar "%"?
     printf("Nulos: %.2f %\n",B);
     printf("Brancos: %.2f %\n",N);
     printf("Validos: %.2f %\n",V);
